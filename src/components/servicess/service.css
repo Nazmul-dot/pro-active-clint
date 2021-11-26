@@ -1,0 +1,8 @@
+.view-text {
+  color: black;
+}
+.view-text:hover {
+  color: rgb(117, 172, 173);
+  border-bottom: 2px solid rgb(92, 219, 221);
+  transition: all 0.5s;
+}

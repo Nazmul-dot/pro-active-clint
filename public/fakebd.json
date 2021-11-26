@@ -1,0 +1,72 @@
+[
+    {
+        "id":"1",
+        "title": "eye surgery",
+        "money":"1200",
+        "details":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist. The eye is a very fragile organ, and requires extreme care before, during, and after a surgical procedure to minimise or prevent further damage",
+        "img":"https://i.ibb.co/w6cTqcv/eye.jpg"
+    },
+    {
+        "id":"2",
+        "title": "neurology",
+        "money":"1800",
+        "details":" The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord",
+        "img":"https://i.ibb.co/b3NFJ2N/neurology.jpg"
+    },
+    {
+        "id":"3",
+        "title": "skin",
+        "money":"500",
+        "details":"These are used to treat skin conditions including eczema and come in many forms including foams, lotions, ointments and creams. Retinoids: These medications (such as retin-A and tazorac) are gels or creams derived from vitamin A and are used to treat conditions including acne",
+        "img":"https://i.ibb.co/dp9BqNG/skin.png"
+    },
+    {
+        "id":"4",
+        "title": "spine",
+        "money":"1000",
+        "details":"There are three main types of spine curvature disorders, including: Lordosis. Also called swayback, the spine of a person with lordosis curves significantly inward at the lower back. Kyphosis",
+        "img":"https://i.ibb.co/gm1zcGX/Spine.jpg"
+    },
+    {
+        "id":"5",
+        "title": "tooth",
+        "money":"800",
+        "details":"Tooth decay is one of the more common oral diseases. It is found in all ages and is a completely preventable oral disease. Cavities are caused when bacteria stick to the teeth, eventually causing wear and tear to a tooth's enamel",
+        "img":"https://i.ibb.co/pjZMptL/tith.jpg"
+    },
+    {
+        "id":"6",
+        "title": "Lung",
+        "money":"1500",
+        "details":"Pulmonary edema is a condition in which the lungs fill with fluid. It's also known as lung congestion, lung water, and pulmonary congestion. When pulmonary edema occurs, the body struggles to get enough oxygen and you start to have shortness of breath",
+        "img":"https://i.ibb.co/X7fXVnn/lung.jpg"
+    },
+    {
+        "id":"7",
+        "title": "kidney",
+        "money":"1200",
+        "details":"One of the best ways to test for CKD and assess kidney damage is a simple urine test which detects the presence of albumin. The smartphone app from Healthy.io enables lay users to conduct a urinalysis test at home and securely share results with their clinician",
+        "img":"https://i.ibb.co/r2H00yZ/kidny.jpg"
+    },
+    {
+        "id":"8",
+        "title": "curdio-surgary",
+        "money":"3000",
+        "details":"Cardiovascular surgery, also referred to as cardiac surgery or heart surgery, describes any surgical procedure that involves the heart, or the blood vessels that carry blood to and from the heart.",
+        "img":"https://i.ibb.co/sQdtnJY/curdio-sergary.png"
+    },
+    {
+        "id":"9",
+        "title": "cancer Screening",
+        "money":"2000",
+        "details":"Whole-body scans are imaging tests. They take pictures of your entire body. Medical centers usually market them directly to consumers. The medical centers say that the scans help find cancer and other diseases early. But these scans aren't very good at finding cancer in people without symptoms.",
+        "img":"https://i.ibb.co/Kx1m4Ws/Cancer-Screening.jpg"
+    },
+    {
+        "id":"10",
+        "title": "Bone",
+        "money":"1000",
+        "details":"A bone scan is a nuclear imaging test that helps diagnose and track several types of bone disease. Your doctor may order a bone scan if you have unexplained skeletal pain, a bone infection or a bone injury that can't be seen on a standard X-ray",
+        "img":"https://i.ibb.co/3sY5MPq/bone.png"
+    }
+]
